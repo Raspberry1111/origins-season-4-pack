@@ -19,6 +19,7 @@ for file in glob.glob("mods/*.pw.toml"):
             if not confirm(f"{file} is serverside. Should I make it optional"):
                 continue
         
-            content.replace('side = "server"', 'side = "both"')
+            content = content.replace('side = "server"', 'side = "both"')
             content += OPTIONAL_CONFIG
+            f.seek(0)
             f.write(content)
