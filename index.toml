@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "modrinth.index.json"
-hash = "94f202aaf04870c1041ddac1edc22d145530115abfc7164db2935e2dd1f52788"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7a753ad3aa3b7d586383884fb59cf8cf8c7a5ebbcf17f29478cd48c580cae542"
 metafile = true
