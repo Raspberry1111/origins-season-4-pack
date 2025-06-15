@@ -1,0 +1,13 @@
+name = "Ube's Delight"
+filename = "ubesdelight-fabric-1.21.1-0.4.1-3.0.0+refab.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PYjpoAys/versions/kNiwiNPy/ubesdelight-fabric-1.21.1-0.4.1-3.0.0%2Brefab.jar"
+hash-format = "sha512"
+hash = "840027ae9f702a38af09479c2850ba68439c7eb9e6a1faf1d2e387416958123fec3c6b245f3a7fa63a1d1ae460667507943afc5adc37e0f8eb6f85e6648a997c"
+
+[update]
+[update.modrinth]
+mod-id = "PYjpoAys"
+version = "kNiwiNPy"

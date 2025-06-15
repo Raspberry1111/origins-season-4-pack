@@ -1,0 +1,13 @@
+name = "Take's Armory"
+filename = "takesarmory-1.10.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vrem7iVu/versions/a0DgMrFF/takesarmory-1.10.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "a510c94d8961cb10f473d09e62847dde74c95ff2f6d2d277f67615bbf08ed05d6ed0f591974120f40675972c282587ce8ed799588a77859593a5d654672f135a"
+
+[update]
+[update.modrinth]
+mod-id = "Vrem7iVu"
+version = "a0DgMrFF"

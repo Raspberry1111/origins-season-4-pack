@@ -1,0 +1,13 @@
+name = "Corn Delight [Fabric/Quilt]"
+filename = "corndelight-1.21-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LbZWy6od/versions/UOdyy6TJ/corndelight-1.21-1.0.0.jar"
+hash-format = "sha512"
+hash = "5a02e53c3f07444980588b3cb52ef931aa8bfe78f0c85e29684e2ad2494e87f0631af3557cd3f97eb2935c446e6ff5cd5b43110d13de719e4d1eaf359dcf9029"
+
+[update]
+[update.modrinth]
+mod-id = "LbZWy6od"
+version = "UOdyy6TJ"

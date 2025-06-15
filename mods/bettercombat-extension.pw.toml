@@ -1,0 +1,13 @@
+name = "Better Combat Extension"
+filename = "bettercombat-extension-2.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nGFJD9cB/versions/WR68DHRF/bettercombat-extension-2.7.0.jar"
+hash-format = "sha512"
+hash = "6348e4ff32097fdb8f7d52017cef190764ee0db7b3294ab16381fac37d9e34f97c988e9cb32e8945b3bca652d1441f444d99734ff6d4bf6074775a2903129761"
+
+[update]
+[update.modrinth]
+mod-id = "nGFJD9cB"
+version = "WR68DHRF"

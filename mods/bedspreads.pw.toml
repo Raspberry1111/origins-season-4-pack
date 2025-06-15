@@ -1,0 +1,13 @@
+name = "Bedspreads"
+filename = "bedspreads-fabric-7.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vNNL5mc7/versions/PB8FAt3M/bedspreads-fabric-7.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "34c065ee0e33a5bb3162f815167631762e94f33ed5c19527ddb85143440b68073fac4aadb3bd5d0c6da10c8e4eb6408fe6a0144374c6d636feeb6223620a161d"
+
+[update]
+[update.modrinth]
+mod-id = "vNNL5mc7"
+version = "PB8FAt3M"

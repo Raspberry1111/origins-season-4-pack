@@ -1,0 +1,13 @@
+name = "Maddy's Origins"
+filename = "maddy-origins-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cPNmuIPn/versions/YQB1yxsr/maddy-origins-1.1.1.jar"
+hash-format = "sha512"
+hash = "c641a0f285b3ce6f2915af241405bbbf67d07d7b0949c23fc2b75dd0b82ccd54d926d3ab262e859d0d0eb72f72bc196c6506b539dd81de9668bb5ad01ba81299"
+
+[update]
+[update.modrinth]
+mod-id = "cPNmuIPn"
+version = "YQB1yxsr"

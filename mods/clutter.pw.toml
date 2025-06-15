@@ -1,0 +1,13 @@
+name = "Clutter"
+filename = "clutter-1.21.1-0.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZAmykow/versions/OirSZS4H/clutter-1.21.1-0.6.5.jar"
+hash-format = "sha512"
+hash = "5c9cc940fa34a761e94367a2196fa1573ac561db9ebd6bd1aea570c4f084a70cb5ec1d1d55d4c9f7b5c9dbcfb968568534ff681a2aff18e9cf83de21cf308c07"
+
+[update]
+[update.modrinth]
+mod-id = "KZAmykow"
+version = "OirSZS4H"

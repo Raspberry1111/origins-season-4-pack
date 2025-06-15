@@ -1,0 +1,13 @@
+name = "Seed Delight"
+filename = "SeedDelight-Fabric-1.21-1.0.1-Fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/70AHjgqV/versions/cHxYEEVy/SeedDelight-Fabric-1.21-1.0.1-Fix.jar"
+hash-format = "sha512"
+hash = "90abc6fc4b299cebbf1b0847ae779db65e89e6f2b486d8d58919e4e9b723bd22ff0846d4231464aca712625a879c5bf2d19a1054f560345a4ecc34ee2ef7f631"
+
+[update]
+[update.modrinth]
+mod-id = "70AHjgqV"
+version = "cHxYEEVy"
