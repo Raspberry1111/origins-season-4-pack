@@ -1,0 +1,13 @@
+name = "Leashable Collars"
+filename = "PlayerCollars-1.4.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E1XS8bXN/versions/ZSKmD4om/PlayerCollars-1.4.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d48d921eb82295d277574ba78947cd05f3d10195cc933bf667ba5cb9cc18d376f66ba85db86fc63eaf233eb156e005e12d59246ebd6bb5bbc1e4878178914ad9"
+
+[update]
+[update.modrinth]
+mod-id = "E1XS8bXN"
+version = "ZSKmD4om"

@@ -1,0 +1,13 @@
+name = "Craftsman's bows"
+filename = "craftsman_bows-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a4adwT8I/versions/NeBth5rW/craftsman_bows-1.0.1.jar"
+hash-format = "sha512"
+hash = "9efd1f0781f636ef6ddf0155806e72c61e8086bef7a180f6bfe23f1b718bde4e498d662b431208c6eaf4e84bc30e4c020142671f0a46cdffa1da2d1cdb1a7ff7"
+
+[update]
+[update.modrinth]
+mod-id = "a4adwT8I"
+version = "NeBth5rW"
