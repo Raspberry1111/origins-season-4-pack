@@ -211,11 +211,6 @@ hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
 metafile = true
 
 [[files]]
-file = "mods/easters-delight.pw.toml"
-hash = "26012aa0d3284402d9a541704b21ee6cdd3436c3cc7885a680b1458cb4e9f24a"
-metafile = true
-
-[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "cc46728d8879ff5ab1e00f17bb63bacaf30ea2699bb692c0ca5e084572ae3e8e"
 metafile = true
@@ -446,11 +441,6 @@ hash = "1e2b3c4d14e7eb437ce71ceca81b54e345252dcd8d4e6533bf259ea7c7491302"
 metafile = true
 
 [[files]]
-file = "mods/origins-spirits.pw.toml"
-hash = "cfbab9c419694ad5ed7ae22b2fbb608a96f941b22a955a88f3c4c04d54822548"
-metafile = true
-
-[[files]]
 file = "mods/origins.pw.toml"
 hash = "e431685cbb9ec45f1170e8e40119c9d02d08784945801e22dc8e2403374cfa98"
 metafile = true
@@ -536,18 +526,8 @@ hash = "178304ccfffe2c0705439c6d6dbd77d5833f3c6538cc412bef5c2375390e91a3"
 metafile = true
 
 [[files]]
-file = "mods/scarves.pw.toml"
-hash = "d3ea12a16b99262f322a40b1b4803b8fcf6adbba59684ddb2e952107d1b4069d"
-metafile = true
-
-[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "e92e3ccca5683448fa34fed5a53f23ec0c5ab5d475447fa16735c6b8a27478a4"
-metafile = true
-
-[[files]]
-file = "mods/shutters.pw.toml"
-hash = "dffa1ff153312b6a1ad417fdb8d90d471326a109c6115edfd8e27a3ee25ac707"
 metafile = true
 
 [[files]]
@@ -668,11 +648,6 @@ metafile = true
 [[files]]
 file = "mods/uranus.pw.toml"
 hash = "386e65e3ce9dd357c81921deb2a6937cb2a3ab1a043960e2dce40c332a53dad3"
-metafile = true
-
-[[files]]
-file = "mods/useless-reptile.pw.toml"
-hash = "351608ab9dbd769884ed2c87e3d3f103356b6c2210a37aa19ba8d8fa8f3f6a08"
 metafile = true
 
 [[files]]
