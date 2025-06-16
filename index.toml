@@ -586,6 +586,11 @@ hash = "7e779c0d2ba3c4094b9460205deb1c9900ca1f57c277ce77cb55446120ee11c4"
 metafile = true
 
 [[files]]
+file = "mods/spell-power.pw.toml"
+hash = "a104f0d07b6b648ea80d3ddefd6857f8f97359f4c3e9c603880b9ba149ef2e55"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-astronomy.pw.toml"
 hash = "b95ce16789bdf41c767f5ee53502626eff959274ddd8a8c811d92a2705f1b561"
 metafile = true
