@@ -101,6 +101,11 @@ hash = "56d0a735ef8c0bfe4ee06bfa66cd11753002c98411eb167cad68f8adcbd76d0a"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "46dbb4e9b06d0dff4bdcb4cbc562b7b2dfc642530fc31c2d377c3f78a77a5d96"
+metafile = true
+
+[[files]]
 file = "mods/chalk-colorful-addon.pw.toml"
 hash = "0392dc43f2a743dfe67119aa6b43b0967e83dfb78240855da1a97d4ba78bf458"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "bf8a74b62a139644a15ffda154ca80b6813c7fc15856362d57ab43c65fc33c41"
 metafile = true
 
 [[files]]
@@ -192,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
+hash = "af786dd34c74012a437184519dfeb4d6befd4b8d1de89ca773ec2e3785330be2"
 metafile = true
 
 [[files]]
@@ -586,6 +596,16 @@ hash = "ba1a677f25a689192974c49d87f136c004ffb3e6c66649b1d5447e86ecff54e1"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "97df1677b1871339d75f5244c74446990a6109186f3b0478961181352b23ad8d"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "59ac62841c268c74eb13c90ff2f77c2b2fc4b952c12dc2425d8f14953f4ba8b3"
 metafile = true
@@ -606,6 +626,11 @@ hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
 
 [[files]]
+file = "mods/tesseract.pw.toml"
+hash = "e730a5830e248b5dd4618be68bfc2c011ff25f622d617218d02bafedec9a5706"
+metafile = true
+
+[[files]]
 file = "mods/tilt-break.pw.toml"
 hash = "b7e16ae7959c2526a8905eb982deab19f371ba15a468f208dfbb4e0011a6b1a8"
 metafile = true
@@ -613,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "d7655654c6b8fc819f2a01a4b50bb8b133efb1b5da88394b4af5581599a34a5e"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "cc1001013de4b36fff9edeef2db3bb43c18a30a4963fd6095226098eb75640f4"
 metafile = true
 
 [[files]]
