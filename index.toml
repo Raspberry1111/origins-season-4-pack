@@ -371,11 +371,6 @@ hash = "1d627de482b1210efd37478fb22caf7c1a311c16c55cc7bcc79c395d79193167"
 metafile = true
 
 [[files]]
-file = "mods/logical-iframes.pw.toml"
-hash = "daab67c6460a59e1ae872e5ac2322b0e8da5c044a6d202bc8b81a905cefa0e99"
-metafile = true
-
-[[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "288747beb2483e473a86de31a9fff544e398d37e661c4a9bb7aa16769f7ee8f5"
 metafile = true
@@ -748,11 +743,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "1bd0ba1128e6ae3f926298c2ffe33180cca75362fae3bd92146d43977297f01c"
-metafile = true
-
-[[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "597a74f79ce4013258c7c45621d63d14c37e89658cd002bcf7193a9beaabb176"
 metafile = true
 
 [[files]]
