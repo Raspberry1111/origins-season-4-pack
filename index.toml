@@ -281,6 +281,11 @@ hash = "91746d4d5c04fac84ed115445beafb62ae9381dae5606814bcc150d58da90093"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
 metafile = true
@@ -346,6 +351,11 @@ hash = "67073e76c80987fe6193fdb50f4db0991467ba3fa265829a132ca878e5261c0a"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "f38b8a892434994eeaaaa3db5f7479fc7cd2a4db3bb59315313b34fe3659b66f"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
@@ -368,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
 hash = "1d627de482b1210efd37478fb22caf7c1a311c16c55cc7bcc79c395d79193167"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
 
 [[files]]
@@ -398,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "d12b136e07f6f83a1e199aabe430426d19702c9f69e55731092b5d5c2f3fb69f"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "1584444b7f16488634393b73c6cd7ab5247338beb9d5eda623b32db64adc3871"
 metafile = true
 
 [[files]]

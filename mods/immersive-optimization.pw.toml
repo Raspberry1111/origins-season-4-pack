@@ -1,0 +1,13 @@
+name = "Immersive Optimization"
+filename = "immersive_optimization-fabric-1.21-0.0.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vNZgQmjg/versions/havbA54G/immersive_optimization-fabric-1.21-0.0.5.jar"
+hash-format = "sha512"
+hash = "ccc5c14fd93e3c721bc0f151f73abe799afa6bdb99bb6d0d77a1421a1abcacfdad84ee9311863be4686fe3e7e4cb987c355bf59bcd14216dd0ae7ccff9fc8d29"
+
+[update]
+[update.modrinth]
+mod-id = "vNZgQmjg"
+version = "havbA54G"
