@@ -351,11 +351,6 @@ hash = "67073e76c80987fe6193fdb50f4db0991467ba3fa265829a132ca878e5261c0a"
 metafile = true
 
 [[files]]
-file = "mods/immersive-optimization.pw.toml"
-hash = "f38b8a892434994eeaaaa3db5f7479fc7cd2a4db3bb59315313b34fe3659b66f"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
