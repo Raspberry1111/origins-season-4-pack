@@ -1,13 +1,13 @@
 name = "Rotten Creatures"
-filename = "rottencreatures-fabric-1.21.1-1.1.1.jar"
+filename = "rottencreatures-fabric-1.21.1-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5Zusp48B/versions/D7gbt6s4/rottencreatures-fabric-1.21.1-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/5Zusp48B/versions/PlS61WUI/rottencreatures-fabric-1.21.1-1.1.2.jar"
 hash-format = "sha512"
-hash = "7a41f9bd7e6be18f106d7461c644a274af163b18b206a26d0b74ab29eec26e913d731b45dbef71ab07bef4ec61e170d9fe1d4391db56a7eb733a2a1235f46da0"
+hash = "5be28626d53c9e2ebcc05657d333449af3eec58a2ba269836177d2d733cc2e11bcfc2a119f87fdd2c131ce5ba970393e465874fba4ab7080dd6100bc9cfef84f"
 
 [update]
 [update.modrinth]
 mod-id = "5Zusp48B"
-version = "D7gbt6s4"
+version = "PlS61WUI"

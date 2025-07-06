@@ -1,13 +1,13 @@
 name = "Storage Delight"
-filename = "storagedelight-25.03.09-1.21-fabric.jar"
+filename = "storagedelight-25.06.24-1.21-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/DEfM6R1x/storagedelight-25.03.09-1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/SIJ9zqcb/storagedelight-25.06.24-1.21-fabric.jar"
 hash-format = "sha512"
-hash = "a8a453a1958152ecac975e1e6d04f9940a26fb6537c8d98fb419d5cef213cfcb1f2eacc03f6a81a416cb4e3d149cef53d86478c8c897b18ffb63f59541da7b86"
+hash = "3246a5fb261cf95947d3f1340f0bd47a6bfe0c164604b112775882f1c8afb3b5654f20ceb55e48498eb84e5ca2c7fc48619f2da594d7479263d014c2144b5d44"
 
 [update]
 [update.modrinth]
 mod-id = "LTTvOp5L"
-version = "DEfM6R1x"
+version = "SIJ9zqcb"
