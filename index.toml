@@ -471,6 +471,11 @@ hash = "1e2b3c4d14e7eb437ce71ceca81b54e345252dcd8d4e6533bf259ea7c7491302"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "44f1ed305b7a592bb399132cd9790ef0c78123d9ffd3306f2e08a7d1f1c11252"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "e431685cbb9ec45f1170e8e40119c9d02d08784945801e22dc8e2403374cfa98"
 metafile = true
