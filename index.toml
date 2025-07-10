@@ -326,11 +326,6 @@ hash = "499270116a69668fbc24ea6fdb429927e8eb63d81ad17aebc40b7af65bccafe1"
 metafile = true
 
 [[files]]
-file = "mods/gliders.pw.toml"
-hash = "1c66fbc669b7ef2716943572836ce4ded83831010368ce316ef4fdbd769ddab7"
-metafile = true
-
-[[files]]
 file = "mods/icarus.pw.toml"
 hash = "a07aa2119afa08c79a864c2793a6cd090281b658096e6c775de69a79426c6895"
 metafile = true
