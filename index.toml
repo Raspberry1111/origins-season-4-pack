@@ -96,6 +96,16 @@ hash = "2a664bb1c8ca299e73d60100cf1662ad8f7d1ef6ccbe549aa445ec7deea08a2a"
 metafile = true
 
 [[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "a78b9ce8ba37cbc249146e7a383f475bec11b2fd5c01786cc96280723dad1c87"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "922029dfc00fa5255c633b44951670135e8ca2511e2c4d23f5860d9aa01cf193"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "4030ef46ebf2eb0396c9eb6c9f228fe6be4556be0d8632ef3d9e7d0f3c27b74a"
 metafile = true
