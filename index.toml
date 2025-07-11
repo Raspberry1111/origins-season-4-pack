@@ -91,8 +91,18 @@ hash = "6ad56a9580061e6d287ba30806d62d5452caaff8cb0fb655748fbd0599017cc2"
 metafile = true
 
 [[files]]
+file = "mods/blast.pw.toml"
+hash = "2a664bb1c8ca299e73d60100cf1662ad8f7d1ef6ccbe549aa445ec7deea08a2a"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "4030ef46ebf2eb0396c9eb6c9f228fe6be4556be0d8632ef3d9e7d0f3c27b74a"
+metafile = true
+
+[[files]]
+file = "mods/broken-lead-warner.pw.toml"
+hash = "efc4dd44ea49442e97ae1c32e85fc267c4b20aae1e4fbdbed8927277dc30fb3f"
 metafile = true
 
 [[files]]
@@ -241,6 +251,11 @@ hash = "c0deaf3c63eb7ef75a2e46a908a9f6dd494141da48bdee9fe2bacc9c547e8425"
 metafile = true
 
 [[files]]
+file = "mods/enderscape.pw.toml"
+hash = "6fbeac602c941f5f37cda38e2a8dece059018b2caf9b9215b41ecc0314bd3274"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "94777d3ea5b6b0b1a2c30820116710a42c79fda14c0b7a959ed4fc01eeb9f02f"
 metafile = true
@@ -258,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "d41804aff0c09612645047b2e53bfd88a018deaa7e4ad17d6656dd67e0af2a83"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "b9971aa45df874975e051c11291b040e0f325e3d36c4ee6e93f252fdf7c0ffc3"
 metafile = true
 
 [[files]]
@@ -371,6 +391,21 @@ hash = "8b382e40ea5933d3ce008f4f1678a8ad0dadc6631d5cdd6762322ecb998ed564"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "21b9a925ddf3c8b067a964dccf524a09f5a5c66b3f15591d691943d87980a741"
+metafile = true
+
+[[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "5de5e32007b835600f98ed3b8a6ad7660b601a4ed7f5b72113c9158d1ac0a7a1"
+metafile = true
+
+[[files]]
+file = "mods/knight-quest.pw.toml"
+hash = "ab12cc35fdc4eef5b05748e15bea28e8dfc04f07fcc1b772fcc1764584d056da"
+metafile = true
+
+[[files]]
 file = "mods/leashable-collars.pw.toml"
 hash = "ad251db1b953d05d035142aa10b08e806c256187d04700234368601dca1d773a"
 metafile = true
@@ -383,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
+metafile = true
+
+[[files]]
+file = "mods/lovely_snails.pw.toml"
+hash = "2d906d3bf073103930b304d7b6a6356ba9565a930ebea5dfa3db6fcdf54082f9"
 metafile = true
 
 [[files]]
@@ -403,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/medieval-origins-revival.pw.toml"
 hash = "f6a1ad64cfd0de74c88f225e6d391832ba268c8342f37b6182c668fc36b9f40e"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "414c2909a26ebe54725b45866031806212d9c84bff0f1e052ad5f2e5a61d7d53"
 metafile = true
 
 [[files]]
@@ -446,6 +491,11 @@ hash = "f97c81eb19dc444c3276e1e4d506310d037bde71ba2da6311ec3ec7ccb2d34d8"
 metafile = true
 
 [[files]]
+file = "mods/my_totem_doll.pw.toml"
+hash = "c1d4957ccea9d3689cd64859dc3e7f49ea48e74aa1c355914f98e883b0347f64"
+metafile = true
+
+[[files]]
 file = "mods/natures-delight.pw.toml"
 hash = "fc9fc7b9a8797efcec0d52463a67d0a0cec98327873298c239e2de779f13552e"
 metafile = true
@@ -478,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+metafile = true
+
+[[files]]
+file = "mods/paradise-lost.pw.toml"
+hash = "2df84d647350e90d2ef8b835d071b9708e9398723e42ce6a627dbe723f91d3f8"
 metafile = true
 
 [[files]]
@@ -651,6 +706,11 @@ hash = "e730a5830e248b5dd4618be68bfc2c011ff25f622d617218d02bafedec9a5706"
 metafile = true
 
 [[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "c9888cdb930cc3e892c3808b18f3e643b4d0e5e2e2dbcba08c0feb66f13bd226"
+metafile = true
+
+[[files]]
 file = "mods/tilt-break.pw.toml"
 hash = "b7e16ae7959c2526a8905eb982deab19f371ba15a468f208dfbb4e0011a6b1a8"
 metafile = true
@@ -698,6 +758,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "388ad48f4bd97f7391bfcedd485fe5faa2c6ecffd3369dd7d3cbf031b7b04551"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
 metafile = true
 
 [[files]]
