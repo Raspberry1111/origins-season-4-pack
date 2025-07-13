@@ -731,6 +731,11 @@ hash = "d7655654c6b8fc819f2a01a4b50bb8b133efb1b5da88394b4af5581599a34a5e"
 metafile = true
 
 [[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "0fafa1fc77eb8f825bc8b5ebabdb71c4030bf9dd3e8496f6e169016198393ea1"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "77ca951e4f3ee295754142db6f316f919a9f26fb8c4b212248a1ed3e26cc1eb0"
 metafile = true
