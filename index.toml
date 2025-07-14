@@ -421,6 +421,11 @@ hash = "ad251db1b953d05d035142aa10b08e806c256187d04700234368601dca1d773a"
 metafile = true
 
 [[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "35c9286e4ba744cca20c3f8c5c069880e9f6bf7364c6a3bdccf5a83ea7213e9e"
+metafile = true
+
+[[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
 hash = "1d627de482b1210efd37478fb22caf7c1a311c16c55cc7bcc79c395d79193167"
 metafile = true
