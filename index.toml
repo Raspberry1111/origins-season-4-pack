@@ -216,6 +216,11 @@ hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
 metafile = true
 
 [[files]]
+file = "mods/custom-portals.pw.toml"
+hash = "436075770a1c08e681c781c31cf56e998857109438062e21b35f587cb8a86b05"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true

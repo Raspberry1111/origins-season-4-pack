@@ -1,0 +1,13 @@
+name = "Custom Portals"
+filename = "custom-portals-3.6.2-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/38pHU3u5/versions/aF2C6QzM/custom-portals-3.6.2-1.21.jar"
+hash-format = "sha512"
+hash = "236a41cf2305fcd0f70ddd3a2e2c21688df7ef40c57b54420edcd20494fc14395572cf3572f82b1d2bc8341bb30f5488f62ebb978f9b0de018a78088e563a6ad"
+
+[update]
+[update.modrinth]
+mod-id = "38pHU3u5"
+version = "aF2C6QzM"
